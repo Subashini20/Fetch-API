@@ -1,0 +1,10 @@
+h1{
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+}
+body{
+   background-image: url("sandal.jpg");
+   background-size: cover ;
+
+}

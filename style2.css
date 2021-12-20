@@ -1,0 +1,10 @@
+h1{
+    justify-content: center;
+    text-align: center;
+
+}
+body{
+    background-image: url("gradient.jpg");
+    background-size: cover ;
+ 
+ }

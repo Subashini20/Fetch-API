@@ -1,0 +1,17 @@
+.anchor{
+    display:flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    font-size: 50px;
+    margin-left: 20%;
+}
+h2{
+    text-align: center;
+    font-size: 80px;
+    color:rgb(247, 62, 163);
+    letter-spacing: 2px;
+}
+body{
+    background-image: url('API.png');
+    background-size: cover;
+}
